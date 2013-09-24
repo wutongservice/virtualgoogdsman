@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">borqsMarket</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="themes_market">Themes Market</string>
+    <string name="top_navigation_theme">Theme</string>
+    <string name="top_navigation_object">3D object</string>
+    <string name="bottom_navigation_local">Downloaded</string>
+    <string name="bottom_navigation_online">Online</string>
+    <string name="theme_loading">Loading</string>
+    <string name="action_purchase">Purchase</string>
+    <string name="action_download">Download</string>	
+	<string name="action_downloading">Downloading</string>
+	<string name="action_downloaded">Downloaded</string>
+	<string name="action_waiting">Waiting</string>
+	<string name="action_delete">Delete</string>
+	<string name="action_apply">Apply</string>
+	<string name="action_install">Install</string>
+	<string name="action_update">Update</string>
+	<string name="action_unapply">Unapply</string>
+    <string name="no_local_theme">No local themes</string>
+	<string name="no_local_object">No local 3D objects</string>      
+	<string name="preview">Preview</string>
+	<string name="progress_prefix">Downloading...</string>
+	<string name="msg_no_sdcard">No sdcard, can not be downloaded</string>
+	
+    <string name="product_info_subject">Theme Detail</string>
+    <string name="product_info_title">Title:</string>
+    <string name="product_info_size">Size:</string>
+    <string name="product_info_version">Version:</string>
+    <string name="product_info_author">Author:</string>
+    <string name="product_info_update_time">Update time:</string>
+    <string name="product_info_desc">Description:</string>
+    <string name="none">none</string>
+    <string name="free">Free</string>
+
+	<string name="loading">Loading...</string>
+	<string name="purchase_failed">Purchase failed, please try again</string>
+	<string name="download_failed">Download failed, the download manager does not work!</string>
+	
+	<string name="qiupu_exit_title">Exit</string>
+     <string name="qiupu_exit_message">Are you sure to exit?</string>
+     
+     <string name="label_ok">OK</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_done">Done</string>
+    <string name="label_save">Save</string>
+    <string name="label_skip">Skip</string>
+    
+    <string name="label_process">Processing...</string>
+    <string name="delete_file_message">Sure to delete the file</string>
+    
+    <string name="action_refresh">refresh</string>
+    <string name="msg_loadi_failed">加载失败,请稍候再试...</string>
+    <string name="dlg_msg_no_active_connectivity">No valid network, check the settings and retry.</string>
+    <string name="action_setting">Setting</string>
+    
+    <!-- google account -->
+    <string name="choose_account_title">Choose Account</string>
+    <string name="add_a_google_account">Add a Google Account</string>
+    <string name="login_success">Login Success</string>
+	<string name="login_failed">Login Failed</string>
+	<string name="lable_being_login">Login...</string>
+	<string name="onekey_login">一键登录</string>
+	<string name="onekey_login_message">一键登录需要发送一条普通短信，资费由运营商收取</string>
+</resources>
